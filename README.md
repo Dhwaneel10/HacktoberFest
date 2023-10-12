@@ -1,3 +1,3 @@
 # HacktoberFest
 
-Done by Dhwaneel Pandya
+Made by Dhwaneel Pandya
